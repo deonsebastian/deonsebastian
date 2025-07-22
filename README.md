@@ -24,7 +24,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/deonsebastian" target="_blank">
+  <a href="https://linkedin.com/in/deon-sebastian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yourmail@gmail.com" target="_blank">
